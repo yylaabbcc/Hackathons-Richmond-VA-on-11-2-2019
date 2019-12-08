@@ -9,7 +9,7 @@ Cooperation partner: Xitong Huo(xh2kb@virginia.edu)
 
 
 check list：
-- data schema ==> 5 tables 
+- database schema ==> 5 tables 
 - database field list ==> post_op.pdf
 - database initialization file ==> post_op.sql
 -----
